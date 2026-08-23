@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/Saaras-spec/LeetCode/tree/master/0742-to-lower-case) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Saaras-spec/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Saaras-spec/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
