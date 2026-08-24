@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Saaras-spec/LeetCode/tree/master/0007-reverse-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saaras-spec/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Saaras-spec/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Linked List
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saaras-spec/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saaras-spec/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
