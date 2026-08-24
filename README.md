@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saaras-spec/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Saaras-spec/LeetCode/tree/master/0075-sort-colors) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saaras-spec/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Saaras-spec/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Saaras-spec/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Saaras-spec/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Saaras-spec/LeetCode/tree/master/0075-sort-colors) |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Saaras-spec/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Saaras-spec/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
