@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Saaras-spec/LeetCode/tree/master/0007-reverse-integer) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Saaras-spec/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Linked List
 |  |
 | ------- |
