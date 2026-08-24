@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saaras-spec/LeetCode/tree/master/0001-two-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saaras-spec/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Saaras-spec/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
