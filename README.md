@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saaras-spec/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Saaras-spec/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Saaras-spec/LeetCode/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0229-majority-element-ii) |
 | [0909-stone-game](https://github.com/Saaras-spec/LeetCode/tree/master/0909-stone-game) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saaras-spec/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saaras-spec/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Saaras-spec/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0229-majority-element-ii) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Saaras-spec/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Saaras-spec/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0229-majority-element-ii) |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Saaras-spec/LeetCode/tree/master/0909-stone-game) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
