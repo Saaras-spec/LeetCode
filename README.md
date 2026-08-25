@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saaras-spec/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Saaras-spec/LeetCode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Saaras-spec/LeetCode/tree/master/0118-pascals-triangle) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saaras-spec/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Saaras-spec/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Saaras-spec/LeetCode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Saaras-spec/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
