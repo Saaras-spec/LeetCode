@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Saaras-spec/LeetCode/tree/master/0742-to-lower-case) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Saaras-spec/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saaras-spec/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saaras-spec/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0229-majority-element-ii) |
 | [2486-most-frequent-even-element](https://github.com/Saaras-spec/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saaras-spec/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Saaras-spec/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saaras-spec/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saaras-spec/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0229-majority-element-ii) |
 | [2486-most-frequent-even-element](https://github.com/Saaras-spec/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saaras-spec/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -154,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Saaras-spec/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Enumeration
+|  |
+| ------- |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saaras-spec/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
