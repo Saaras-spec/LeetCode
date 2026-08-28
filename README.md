@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Saaras-spec/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Saaras-spec/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saaras-spec/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/Saaras-spec/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saaras-spec/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
+| [3811-reverse-degree-of-a-string](https://github.com/Saaras-spec/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
