@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Saaras-spec/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0909-stone-game](https://github.com/Saaras-spec/LeetCode/tree/master/0909-stone-game) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Saaras-spec/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Saaras-spec/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saaras-spec/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2486-most-frequent-even-element](https://github.com/Saaras-spec/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/Saaras-spec/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/Saaras-spec/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Quicksort
