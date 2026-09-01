@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Saaras-spec/LeetCode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Saaras-spec/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0792-binary-search](https://github.com/Saaras-spec/LeetCode/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/Saaras-spec/LeetCode/tree/master/0909-stone-game) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Saaras-spec/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Saaras-spec/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Saaras-spec/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Saaras-spec/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
