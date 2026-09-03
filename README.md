@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Saaras-spec/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Saaras-spec/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Saaras-spec/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Saaras-spec/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saaras-spec/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Saaras-spec/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3811-reverse-degree-of-a-string](https://github.com/Saaras-spec/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Saaras-spec/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saaras-spec/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Saaras-spec/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saaras-spec/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
