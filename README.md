@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Saaras-spec/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Saaras-spec/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Saaras-spec/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Saaras-spec/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4280-count-digit-appearances](https://github.com/Saaras-spec/LeetCode/tree/master/4280-count-digit-appearances) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Saaras-spec/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saaras-spec/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Saaras-spec/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Saaras-spec/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4280-count-digit-appearances](https://github.com/Saaras-spec/LeetCode/tree/master/4280-count-digit-appearances) |
 ## Linked List
 |  |
