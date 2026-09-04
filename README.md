@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Saaras-spec/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Saaras-spec/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Saaras-spec/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Saaras-spec/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saaras-spec/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Saaras-spec/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3811-reverse-degree-of-a-string](https://github.com/Saaras-spec/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Saaras-spec/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saaras-spec/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Saaras-spec/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Saaras-spec/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2486-most-frequent-even-element](https://github.com/Saaras-spec/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Saaras-spec/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
