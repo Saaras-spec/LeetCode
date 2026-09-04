@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4256-construct-uniform-parity-array-i](https://github.com/Saaras-spec/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Saaras-spec/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4280-count-digit-appearances](https://github.com/Saaras-spec/LeetCode/tree/master/4280-count-digit-appearances) |
+| [4284-smallest-stable-index-i](https://github.com/Saaras-spec/LeetCode/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Saaras-spec/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [4284-smallest-stable-index-i](https://github.com/Saaras-spec/LeetCode/tree/master/4284-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
