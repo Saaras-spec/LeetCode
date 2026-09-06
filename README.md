@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Saaras-spec/LeetCode/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/Saaras-spec/LeetCode/tree/master/0909-stone-game) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Saaras-spec/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1306-minimum-absolute-difference](https://github.com/Saaras-spec/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Saaras-spec/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Saaras-spec/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1582-design-browser-history](https://github.com/Saaras-spec/LeetCode/tree/master/1582-design-browser-history) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saaras-spec/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Saaras-spec/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0229-majority-element-ii) |
+| [1306-minimum-absolute-difference](https://github.com/Saaras-spec/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Saaras-spec/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
