@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Saaras-spec/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Saaras-spec/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Saaras-spec/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0977-distinct-subsequences-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Saaras-spec/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saaras-spec/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Saaras-spec/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Saaras-spec/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saaras-spec/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0909-stone-game](https://github.com/Saaras-spec/LeetCode/tree/master/0909-stone-game) |
+| [0977-distinct-subsequences-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 ## Minimax
 |  |
 | ------- |
