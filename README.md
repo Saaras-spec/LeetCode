@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Saaras-spec/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Saaras-spec/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2486-most-frequent-even-element](https://github.com/Saaras-spec/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Saaras-spec/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Saaras-spec/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Saaras-spec/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saaras-spec/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Saaras-spec/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Saaras-spec/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Saaras-spec/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Recursion
