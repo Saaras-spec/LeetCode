@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Saaras-spec/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Saaras-spec/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saaras-spec/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4245-count-commas-in-range](https://github.com/Saaras-spec/LeetCode/tree/master/4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Saaras-spec/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Saaras-spec/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4280-count-digit-appearances](https://github.com/Saaras-spec/LeetCode/tree/master/4280-count-digit-appearances) |
