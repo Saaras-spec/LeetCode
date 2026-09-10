@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Saaras-spec/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Saaras-spec/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1254-deepest-leaves-sum](https://github.com/Saaras-spec/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Saaras-spec/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Saaras-spec/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Saaras-spec/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1254-deepest-leaves-sum](https://github.com/Saaras-spec/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Saaras-spec/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saaras-spec/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Saaras-spec/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1254-deepest-leaves-sum](https://github.com/Saaras-spec/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Saaras-spec/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Saaras-spec/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Saaras-spec/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Saaras-spec/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1254-deepest-leaves-sum](https://github.com/Saaras-spec/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Saaras-spec/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
