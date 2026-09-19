@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0909-stone-game](https://github.com/Saaras-spec/LeetCode/tree/master/0909-stone-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saaras-spec/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Saaras-spec/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2481-strictly-palindromic-number](https://github.com/Saaras-spec/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Saaras-spec/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saaras-spec/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saaras-spec/LeetCode/tree/master/0053-maximum-subarray) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Saaras-spec/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
